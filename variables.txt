@@ -1,0 +1,11 @@
+food = "pizza"
+is_delicious = true
+food = "pasta"
+
+num2 = 20
+num7 = 40
+quotient = num7 / num2
+
+songs = ["Hey Jude", "Black Bird", "Let it be"]
+songs.shift
+food.length
