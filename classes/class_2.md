@@ -9,7 +9,7 @@ Menu
 * menu_name (string)
 * material (string)
 * color (string)
-* food_items (hash made up of a * string for the item name as a key and the item price as a float value)
+* food_items (hash made up of a string for the item name as a key and the item price as a float value)
 * is_open (boolean)
 
 **Methods**
