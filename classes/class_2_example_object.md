@@ -1,4 +1,4 @@
-# Instance of my TableOrder class
+# Instance of my Menu class
 
 **Class**
 
