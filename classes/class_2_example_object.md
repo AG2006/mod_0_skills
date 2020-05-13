@@ -16,7 +16,7 @@ is_open = false
 
 **Methods**
 
-change_name: `menu_name = "Kid's Happy Holiday Specials"`
-change_material: `material = "plastic"`
-change_color: `color = "Red"`
-open_close_menu: `is_open = true`
+* change_name: `menu_name = "Kid's Happy Holiday Specials"`
+* change_material: `material = "plastic"`
+* change_color: `color = "Red"`
+* open_close_menu: `is_open = true`
